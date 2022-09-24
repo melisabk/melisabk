@@ -1,6 +1,8 @@
 ### Hi, I'm Melisa  👋
 
 
+I am student in Ankara Science University. My department is software enginnering. Also I am attending at SistersLab Womeen İn Tech Academy.
+
 <!--
 **melisabk/melisabk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
