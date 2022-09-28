@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melisa</h1>
-- 🔭 I’m student at **Ankara Science University**
+- 🔭 I’m student software engineering at Ankara Science University
 
 - 🌱 I’m currently learning **pyhton in SistersLab**
 
