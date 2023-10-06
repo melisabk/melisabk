@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **smelisabuyukkopru@gmail.com**
 
+- I worked in Mercedes-Benz Koluman. My position is IT departmen intern for 8 months in 2022-2023.
+
+- I worked in Dalak Games- junior game developer for 1 month in 2023
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melisa-buyukkopru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melisa-buyukkopru" height="30" width="40" /></a>
