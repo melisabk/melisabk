@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melisa</h1>
 - 🔭 I’m student software engineering at Ankara Science University
 
-- 🌱 I’m currently learning **pyhton in SistersLab**
+- 🌱 I learned **pyhton in SistersLab** in 2022
 
 - 📫 How to reach me **smelisabuyukkopru@gmail.com**
 
