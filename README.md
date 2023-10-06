@@ -7,7 +7,7 @@
 
 - I worked in Mercedes-Benz Koluman. My position is IT departmen intern for 8 months in 2022-2023.
 
-- I worked in Dalak Games- junior game developer for 1 month in 2023
+- I worked in Dalak Games- junior game developer for 1 month in 2023.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
